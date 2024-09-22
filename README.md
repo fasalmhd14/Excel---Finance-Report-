@@ -7,11 +7,11 @@ Function - Finance**
 
 **SKILLS**
 
-*DAX
-*ETL (EXTRACT, TRANSFORM, LOAD)
-*Pivot Tables
-*Power Pivot 
-*Power Query
-*Data Modelling
+* DAX
+* ETL (EXTRACT, TRANSFORM, LOAD)
+* Pivot Tables
+* Power Pivot 
+* Power Query
+* Data Modelling
 
 
